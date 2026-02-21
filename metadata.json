@@ -1,0 +1,7 @@
+{
+  "name": "Ramadan Companion",
+  "description": "A comprehensive Ramadan application featuring prayer times, Quran, Athkar, Tasbih, and AI-powered daily insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
